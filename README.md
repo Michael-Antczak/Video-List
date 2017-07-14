@@ -18,6 +18,8 @@ This is my own curated list of the videos that I find useful in any way, grouped
 
   One of the best explanation of the concept of entropy. Very clear on universe dynamics. 
 
-- [ ] [**Black Holes, the Conservation of Information, and the Holographic Principle**](http://www.cornell.edu/video/leonard-susskind-2-black-holes-conservation-of-information-holographic-principle) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)
+- [x] [**Black Holes, the Conservation of Information, and the Holographic Principle**](http://www.cornell.edu/video/leonard-susskind-2-black-holes-conservation-of-information-holographic-principle) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) ★★★★★     
+
+  How much does the Black Hole grow when you throw 1 bit of information at it? Great stuff and very easy to follow.  
 
 - [ ] [**Entanglement: The Hooks that Hold Space Together**](http://www.cornell.edu/video/leonard-susskind-3-entanglement) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)
