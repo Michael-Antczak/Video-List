@@ -25,3 +25,5 @@ This is my own curated list of the videos that I find useful in any way, grouped
 - [ ] [**Entanglement: The Hooks that Hold Space Together**](http://www.cornell.edu/video/leonard-susskind-3-entanglement) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)  
 
 ◔ [**Why is Time a One-Way Street?**](https://www.youtube.com/watch?v=jhnKBKZvb_U) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)  
+
+- [ ] [**The World as a Hologram**](https://www.youtube.com/watch?v=GHgi6E1ECgo) by [Raphael Bousso](https://en.wikipedia.org/wiki/Raphael_Bousso)  
