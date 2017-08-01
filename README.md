@@ -22,4 +22,6 @@ This is my own curated list of the videos that I find useful in any way, grouped
 
   How much does the Black Hole grow when you throw 1 bit of information at it? Great stuff and very easy to follow.  
 
-- [ ] [**Entanglement: The Hooks that Hold Space Together**](http://www.cornell.edu/video/leonard-susskind-3-entanglement) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)
+- [ ] [**Entanglement: The Hooks that Hold Space Together**](http://www.cornell.edu/video/leonard-susskind-3-entanglement) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)  
+
+◔ [**Why is Time a One-Way Street?**](https://www.youtube.com/watch?v=jhnKBKZvb_U) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)  
