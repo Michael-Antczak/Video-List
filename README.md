@@ -8,6 +8,9 @@ This is my own curated list of the videos that I find useful in any way, grouped
 ◕ About to finish watching  
 - [x] I have watched the video
 
+## AI
+- [x] [**How Will Artificial Intelligence Affect Your Life**](https://www.youtube.com/watch?v=BfDQNrVphLQ) by [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) ★★★★★
+
 ## Business & Technology
 - [x] [**The electricity metaphor for the web's future**](https://www.ted.com/talks/jeff_bezos_on_the_next_web_innovation) by [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) ★★★★★
 
