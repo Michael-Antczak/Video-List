@@ -16,6 +16,11 @@ This is my own curated list of the videos that I find useful in any way, grouped
 
   Fascinating talk. Comparing the Internet boom to the early electricity industry. Very optimistic as long as you believe in this   comparison! 
 
+## Space
+- [x] [**Space Exploration is the Worst**](https://www.youtube.com/watch?v=kqrahBJkKAs) by [Emily Calandrelli](https://en.wikipedia.org/wiki/Emily_Calandrelli) ★★★★★  
+
+  Snowball and the space exploration in one video. Good stuff. 
+
 ## Physics
 - [x] [**Boltzmann and the Arrow of Time: A Recent Perspective**](http://www.cornell.edu/video/leonard-susskind-1-boltzmann-and-the-arrow-of-time) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)
 
