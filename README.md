@@ -16,6 +16,13 @@ This is my own curated list of the videos that I find useful in any way, grouped
 
   Fascinating talk. Comparing the Internet boom to the early electricity industry. Very optimistic as long as you believe in this   comparison! 
 
+## Maths
+- [x] [**The beauty I see in algebra**](https://www.youtube.com/watch?v=8CX-Q0gtSp8) by [Margot Gerritsen](https://people.stanford.edu/gerritsn/) ★★★★★
+
+  How not to love maths! Great TED talk. 
+
+
+
 ## Space
 - [x] [**Space Exploration is the Worst**](https://www.youtube.com/watch?v=kqrahBJkKAs) by [Emily Calandrelli](https://en.wikipedia.org/wiki/Emily_Calandrelli) ★★★★★  
 
