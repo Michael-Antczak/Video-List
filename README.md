@@ -12,9 +12,13 @@ This is my own curated list of the videos that I find useful in any way, grouped
 - [x] [**How Will Artificial Intelligence Affect Your Life**](https://www.youtube.com/watch?v=BfDQNrVphLQ) by [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) ★★★★★
 
 ## Business & Technology
-- [x] [**The electricity metaphor for the web's future**](https://www.ted.com/talks/jeff_bezos_on_the_next_web_innovation) by [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) ★★★★★
-
+- [x] [**The electricity metaphor for the web's future**](https://www.ted.com/talks/jeff_bezos_on_the_next_web_innovation) by [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) ★★★★★  
   Fascinating talk. Comparing the Internet boom to the early electricity industry. Very optimistic as long as you believe in this   comparison! 
+
+- [x] [**How to Invent the Future I - CS183F**](https://www.youtube.com/watch?v=id1WShzzMCQ) by [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) ★★★★★  
+Gee, where to start. One of the most amazing talks I have seen in a long time. I have to watch it again though. 
+
+
 
 ## Maths
 - [x] [**The beauty I see in algebra**](https://www.youtube.com/watch?v=8CX-Q0gtSp8) by [Margot Gerritsen](https://people.stanford.edu/gerritsn/) ★★★★★
