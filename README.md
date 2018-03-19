@@ -18,6 +18,8 @@ This is my own curated list of the videos that I find useful in any way, grouped
 - [x] [**How to Invent the Future I - CS183F**](https://www.youtube.com/watch?v=id1WShzzMCQ) by [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) ★★★★★  
 Gee, where to start. One of the most amazing talks I have seen in a long time. I have to watch it again though. 
 
+- [x] [**Fireside Chat: Gareth Williams (Turing Fest 2017)**](https://www.turingfest.com/2017/strategy/gareth-williams) by [Gareth Williams](https://www.linkedin.com/in/garethjlwilliams/) ★★★★  
+"The future is to be found in Asia" comment at 4:00. 
 
 
 ## Maths
