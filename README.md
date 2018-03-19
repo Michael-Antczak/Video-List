@@ -19,7 +19,8 @@ This is my own curated list of the videos that I find useful in any way, grouped
 Gee, where to start. One of the most amazing talks I have seen in a long time. I have to watch it again though. 
 
 - [x] [**Fireside Chat: Gareth Williams (Turing Fest 2017)**](https://www.turingfest.com/2017/strategy/gareth-williams) by [Gareth Williams](https://www.linkedin.com/in/garethjlwilliams/) ★★★★  
-"The future is to be found in Asia" comment at 4:00. 
+"The future is to be found in Asia" comment at 4:00.   
+"I want to be CTO, but I don't some idiot telling me what to do. So I'll be the idiot." at 33:00.
 
 
 ## Maths
