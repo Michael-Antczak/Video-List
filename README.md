@@ -11,6 +11,9 @@ This is my own curated list of the videos that I find useful in any way, grouped
 ## AI
 - [x] [**How Will Artificial Intelligence Affect Your Life**](https://www.youtube.com/watch?v=BfDQNrVphLQ) by [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) ★★★★★
 
+- [x] [**Dr Daniel Susskind gives TED talk on the future of work**](https://www.balliol.ox.ac.uk/news/2018/march/dr-daniel-susskind-gives-ted-talk-on-the-future-of-work-0) by [Daniel Susskind](https://www.balliol.ox.ac.uk/dr-daniel-susskind) ★★★★★  
+  Fascinating talk. Still some questions are unanswered. 
+
 ## Business & Technology
 - [x] [**The electricity metaphor for the web's future**](https://www.ted.com/talks/jeff_bezos_on_the_next_web_innovation) by [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) ★★★★★  
   Fascinating talk. Comparing the Internet boom to the early electricity industry. Very optimistic as long as you believe in this   comparison! 
