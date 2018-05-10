@@ -53,3 +53,7 @@ Gee, where to start. One of the most amazing talks I have seen in a long time. I
 ◔ [**Why is Time a One-Way Street?**](https://www.youtube.com/watch?v=jhnKBKZvb_U) by [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind)  
 
 - [ ] [**The World as a Hologram**](https://www.youtube.com/watch?v=GHgi6E1ECgo) by [Raphael Bousso](https://en.wikipedia.org/wiki/Raphael_Bousso)  
+
+- [x] [**Quantum Reality: Space, Time, and Entanglement**](https://www.youtube.com/watch?v=BFrBr8oUVXU) moderated by Brian Greene. Participants: [Mark Van Raamsdonk](https://en.wikipedia.org/wiki/Mark_Van_Raamsdonk), [Gerard ’t Hooft](https://en.wikipedia.org/wiki/Gerard_%27t_Hooft), David Wallace, Birgitta Whaley ★★★★★  
+
+  Exploring the fundamental principles of Quantum Physics. Great talk!  
